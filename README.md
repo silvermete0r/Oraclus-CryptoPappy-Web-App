@@ -2,21 +2,23 @@
 
 ## Project name
 
-[Project name]
+Oraclus CryptoPappy WebApp
 
 ## Selected problem
 
-[Problem name]
+* **Crypto Market News Impact Analyzer: Correlation of News Sentiment with the Movement of Token Prices**
+
+* **Task:** To develop a tool that effectively correlates the mood of cryptocurrency-related news with the corresponding changes in token prices, eliminating the current discrepancy between the impact of news and market trends.
 
 ## Team name
 
-[Your team name]
+**AIturbo**
 
 ## Participants
 
-* Full name: [Full name]. Email: [Email]
-* Full name: [Full name]. Email: [Email]
-* Full name: [Full name]. Email: [Email]
+* Full name: Arman Zhalgasbayev. Email: 220650@astanait.edu.kz
+* Full name: Tolegen Aiteni. Email: 221640@astanait.edu.kz
+* Full name: Kalkabay Yerkhat. Email: 220304@astanait.edu.kz
 
 ## Abstract
 
