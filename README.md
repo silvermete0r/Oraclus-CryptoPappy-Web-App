@@ -1,4 +1,13 @@
 # Astana IT University: Blockchain Hack 2023 
+<a href="https://github.com/silvermete0r/Oraclus-CryptoPappy-Web-Appi">
+    <img src="https://img.shields.io/github/stars/silvermete0r/Oraclus-CryptoPappy-Web-App?style=social">
+</a> 
+<a href="https://github.com/silvermete0r/Oraclus-CryptoPappy-Web-App">
+    <img src="https://img.shields.io/github/forks/silvermete0r/Oraclus-CryptoPappy-Web-App?style=plastic">
+</a> 
+<a href="https://github.com/silvermete0r/Oraclus-CryptoPappy-Web-App">
+    <img src="https://img.shields.io/github/license/silvermete0r/Oraclus-CryptoPappy-Web-Appe?style=plastic">
+</a>
 
 ## Project name
 
@@ -101,6 +110,8 @@ As a result of all the work, we have trained a fairly good model for predicting 
 
 * To get the latest news, we developed our own parser based on the News API separately: https://github.com/silvermete0r/Crypto-News-Parsing-Guidline
 
+* My Guidline for making datasets using NewsAPI: https://github.com/silvermete0r/Crypto-News-Parsing-Guidline
+
 ## Challenges faced
 
 The main work was to develop a machine learning model to predict the price of bitcoin depending on the news. In the process, there were problems with analyzing this data, how to train the model better in order to improve the quality of the model. I tested different options, it turned out to be the best to conduct a semantic analysis of the news around the world for each day and make an analysis of the ratio of the number of positive, negative and neutral news per day. We tried to do Named Entity Recognition, but it didn't help, but on the contrary, it worsened the quality.
@@ -117,8 +128,8 @@ The main work was to develop a machine learning model to predict the price of bi
 
 ## Additional sources
 
-**Yahoo Finance:** [Top CryptoCurrencies](https://finance.yahoo.com/crypto?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFdVCpPk-mtL4GaFSZ_fyIGd1q9bNPXRVtgQdYERukDz6_ZPbubXewi7H442lbIXpiiWUPlxIEpHyWyHSn84oTa2FyOagzbsiigb7MMcb-2VarhtPWcrqA4YKC5WICbyHpU66DbREH_7Li2fE9RcyUgLVfiTVYsVHRa_c5UgPPut) 
-**Yahoo | Kaggle Dataset for Bitcoin:** https://www.kaggle.com/datasets/armanzhalgasbayev/bitcoin-historical-data-2021-2023
-**Cypto News+ Dataset:** https://www.kaggle.com/datasets/oliviervha/crypto-news
-**Streamlit Docs:** https://docs.streamlit.io/
-**Tensorflow Docs:** https://www.tensorflow.org/api_docs
+* **Yahoo Finance:** [Top CryptoCurrencies](https://finance.yahoo.com/crypto?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFdVCpPk-mtL4GaFSZ_fyIGd1q9bNPXRVtgQdYERukDz6_ZPbubXewi7H442lbIXpiiWUPlxIEpHyWyHSn84oTa2FyOagzbsiigb7MMcb-2VarhtPWcrqA4YKC5WICbyHpU66DbREH_7Li2fE9RcyUgLVfiTVYsVHRa_c5UgPPut) 
+* **Yahoo | Kaggle Dataset for Bitcoin:** https://www.kaggle.com/datasets/armanzhalgasbayev/bitcoin-historical-data-2021-2023
+* **Cypto News+ Dataset:** https://www.kaggle.com/datasets/oliviervha/crypto-news
+* **Streamlit Docs:** https://docs.streamlit.io/
+* **Tensorflow Docs:** https://www.tensorflow.org/api_docs
