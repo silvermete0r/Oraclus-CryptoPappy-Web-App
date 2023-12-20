@@ -53,7 +53,7 @@ model = tf.keras.Sequential([
 
 ## Demo video
 
-[Link to a demo video showcasing your project, if any. Ensure it is less than 3 minutes long.]
+Link to a demo video:
 
 ## How to run
 
@@ -68,8 +68,6 @@ model = tf.keras.Sequential([
 
 
 ### Running
-
-[Provide specific commands and environment for building and running your project, preferably in a containerized environment.]
 
 Basic example:
 ```bash
