@@ -27,7 +27,7 @@
 
 ## Team name
 
-**AIturbo**
+**AIturbo 🚀**
 
 ## Participants
 
