@@ -55,7 +55,7 @@ model = tf.keras.Sequential([
 
 ## Demo video
 
-Link to a demo video:
+**YouTube video link:** https://www.youtube.com/watch?v=jlSpKFdp27I
 
 ## How to run
 
