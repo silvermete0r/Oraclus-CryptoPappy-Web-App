@@ -13,7 +13,7 @@
 
 **Oraclus CryptoPappy WebApp**
 
-**Website:** [oraclus-cryptopappy.streamlit.app](https://oraclus-cryptopappy.streamlit.app/)
+**Platform:** [oraclus-cryptopappy.streamlit.app](https://oraclus-cryptopappy.streamlit.app/)
 
 ## Selected problem
 
