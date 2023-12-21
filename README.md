@@ -15,6 +15,10 @@
 
 **Platform:** [oraclus-cryptopappy.streamlit.app](https://oraclus-cryptopappy.streamlit.app/)
 
+**Kaggle Notebook:** https://www.kaggle.com/code/armanzhalgasbayev/eda-how-crypto-news-affects-on-cryptocurrencies
+
+*Link to used datasets and resources menitioned in the end of document.*
+
 ## Selected problem
 
 * **Crypto Market News Impact Analyzer: Correlation of News Sentiment with the Movement of Token Prices**
