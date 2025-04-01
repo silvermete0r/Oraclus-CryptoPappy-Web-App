@@ -39,6 +39,8 @@
 
 **CryptoPappy** is an interactive application that provides detailed market analysis of cryptocurrencies in the form of charts, visualizations, metrics, tables, etc. The main feature of the program is to receive current news on bitcoin in real time. Depending on the quality and quantity of news, the platform provides a forecast of the bitcoin price for the next day.
 
+![image](https://github.com/user-attachments/assets/aa1d267b-7daf-4877-a603-b95c23da4197)
+
 **The ML model was trained using Tensorflow on architecture:**
 ``` Python
 model = tf.keras.Sequential([
